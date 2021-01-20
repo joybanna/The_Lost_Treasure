@@ -43,10 +43,12 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -58,3 +60,14 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+The Lost Treasure/UserSettings/
+The Lost Treasure/ProjectSettings/
+The Lost Treasure/.vscode/
+The Lost Treasure/Build/
+The Lost Treasure/Library/
+The Lost Treasure/Logs/
+The Lost Treasure/obj/
+The Lost Treasure/Packages/
+The Lost Treasure/Scenes/
+
+The Lost Treasure/The_Lost_Treasure.rar
